@@ -21,6 +21,14 @@ Setting up a web server, managing infrastructure, and dealing with maintenance c
 
 ⦁	Security Best Practices via policies.
 
+* AI integration.
+  
+* HTTPS
+  
+* Cloudformation
+  
+*Url invalidation / validation
+
 
 ## Ready or Not?
 Step 1: Create an S3 Bucket
@@ -57,6 +65,15 @@ Step 5: Access Your Website
 
 ⦁	Preview your fully hosted website.
 
+Step 6: Navigate to CloudFront
+* Create a distribution
+* Choose simple web app
+* Choose Origin type as s3, use website endpoint
+* Set path as index.htm/
+* leave other settings as default.
+* Create distribution
+* Now we have our domain name which can be used to securelly access our webpage via https.
+
 View [Video Demo here.](#)
 
-There you go! You to the world. Happy? Yeah sure you are. 
+There you go! This is you to the world. We are live and secure. Happy? Yeah sure you are. 
