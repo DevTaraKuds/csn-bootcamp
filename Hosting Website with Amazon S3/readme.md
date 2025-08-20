@@ -14,34 +14,47 @@ Setting up a web server, managing infrastructure, and dealing with maintenance c
 ##Skills Displayed
 
 ⦁	Website Administration and deployment
+
 ⦁	Scalability
+
 ⦁	Load balancing 
+
 ⦁	Security Best Practices via policies.
 
 
 ## Ready or Not?
 Step 1: Create an S3 Bucket
+
 ⦁	In the AWS console, navigate to the S3 service.
 
 ⦁	Click "Create bucket." Give it a unique name.
 
 ⦁	Uncheck "Block all public access." 
+
 ⦁	Create Bucket
 
 Step 2: Enable Static Website Hosting
+
 ⦁	Go to the "Properties" tab of your new bucket.
+
 ⦁	Scroll down to "Static website hosting" and click "Edit."
+
 ⦁	Select "Enable" and enter index.html as the index document. Save changes.
 
 Step 3: Upload Your Files
+
 ⦁	Go to the "Objects" tab and upload your index.html file and any other assets (CSS, images).
 
 Step 4: Set a Bucket Policy
-⦁	Go to the "Permissions" tab and click "Edit" on the "Bucket policy" section. click here to view the [bucket policy JSON file](#)
+
+⦁	Go to the "Permissions" tab and click "Edit" on the "Bucket policy" section. click here to view the [bucket policy JSON file](https://github.com/DevTaraKuds/csn-bootcamp/blob/main/Hosting%20Website%20with%20Amazon%20S3/bucket_policy.json)
+
 ⦁	Add a policy that allows public read access. The policy should look like this (remember to replace your-bucket-name):
 
 Step 5: Access Your Website
+
 ⦁	Go back to the "Properties" tab, and under "Static website hosting," you'll find the bucket's public URL.
+
 ⦁	Preview your fully hosted website.
 
 View [Video Demo here.](#)
