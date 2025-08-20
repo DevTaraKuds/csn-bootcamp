@@ -9,11 +9,14 @@ In modern cloud applications, we often need to automate tasks based on events. F
 
 ## Skills Shown
 ⦁	Serverless computing.
+
 ⦁	Event-driven architecture.
+
 ⦁	Automation 
+
 ⦁	Log monitoring.
 
-Don't get board. If you are confused along the way, refer to my [video demo here](#)
+Don't get board. If you are confused along the way, refer to my [video demo here.](#)
 
 ## Deep Dive
 
@@ -22,6 +25,7 @@ Step 1: Create an S3 Bucket
 ⦁	In the S3 console, create a new bucket. This is where you'll upload your files. 
 ⦁	Create an empty folder (e.g Images)
 
+
 Step 2: Create the Lambda Function
 
 ⦁	Go to the Lambda console and create a new function.
@@ -29,7 +33,8 @@ Step 2: Create the Lambda Function
 ⦁	Choose Python as the runtime.
 
 ⦁	In the code editor, write the function to get the file name from the S3 event and print it to the logs.
-[Pyton code can be found here](#)
+[Pyton code can be found here](https://github.com/DevTaraKuds/csn-bootcamp/blob/main/Automation%20with%20Lambda/lambda.py)
+
 
 Step 3 - Configure Lambda IAM Role
 
@@ -38,6 +43,7 @@ Step 3 - Configure Lambda IAM Role
 ⦁	Go to the IAM portal, a permission would have been created with the name of your function
 
 ⦁	Edit its execution role to add the AmazonS3ReadOnlyAccess.
+
 
 Step 4: Return to Lambda dashboard to add the S3 Trigger
 
@@ -48,6 +54,7 @@ Step 4: Return to Lambda dashboard to add the S3 Trigger
 ⦁	Choose the bucket you created in Step 1.
 
 ⦁	Select the All object create events event type.
+
 
 Step 5: Test the Workflow
 
