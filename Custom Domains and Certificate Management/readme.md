@@ -40,7 +40,7 @@ Step 2: Create an S3 Bucket and Upload Content
 
 ⦁	In the S3 bucket properties, enable Static website hosting and specify your index and error documents.
 
-⦁	Set a bucket policy to allow public read access (s3:GetObject) and access to cloudfront [view policy here](#).
+⦁	Set a bucket policy to allow public read access (s3:GetObject) and access to cloudfront [view policy here](https://github.com/DevTaraKuds/csn-bootcamp/tree/main/Custom%20Domains%20and%20Certificate%20Management).
 
 Step 4: Request an SSL Certificate with ACM
 ⦁	In the ACM service, request a public certificate for your custom domain using wildcards (e.g.*.yourdomain.com).
