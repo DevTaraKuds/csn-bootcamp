@@ -56,5 +56,6 @@ Monitor Usage: Regularly check the AWS Billing Dashboard to monitor your usage a
 
 Clean Up Resources: When you're finished experimenting with a service, remember to shut down or delete any resources you created (e.g., EC2 instances, S3 buckets) to prevent them from incurring charges.
 
+For a video Walk through of this process, check my [Youtube channel via this link](https://youtu.be/2y8D6_9cGrE)
 
 Congratulations! You are now set up to begin your cloud journey with AWS.
