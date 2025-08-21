@@ -70,7 +70,7 @@ Step 5: Update Route Tables
 
 > Target: Select the VPC peering connection.
 
-[View Demo](#)
+[View Demo](https://youtu.be/5z4awn_WtBI)
 
 Now you have a private, secure network link between two separate virtual networks. You can now launch instances in either VPC and test communication between them. See you later.
 
