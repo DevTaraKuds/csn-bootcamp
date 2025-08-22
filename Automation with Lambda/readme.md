@@ -7,8 +7,6 @@ In modern cloud applications, we often need to automate tasks based on events. F
 2.	AWS Lambda: A serverless compute service that runs our code in response to the S3 event.
 3.	CloudWatch Logs: A monitoring service where the Lambda function will log its activity, providing a complete audit trail.
 
-[View Demo Here](https://youtu.be/nQutkCcc1pQ)
-
 ## Skills Shown
 ⦁	Serverless computing.
 
@@ -18,7 +16,7 @@ In modern cloud applications, we often need to automate tasks based on events. F
 
 ⦁	Log monitoring.
 
-Don't get board. If you are confused along the way, refer to my [video demo here.](#)
+Don't get board. If you are confused along the way, refer to my [video demo here.](https://youtu.be/nQutkCcc1pQ)
 
 ## Deep Dive
 
