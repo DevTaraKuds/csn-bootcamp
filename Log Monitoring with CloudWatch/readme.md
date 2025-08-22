@@ -40,6 +40,6 @@ Step 2 : Create a Dashboard in CloudWatch
 
 ⦁	Configure the widget to display the data in a clear, easy-to-read format.
 
-View the [Video demo here.](#)
+View the [Video demo here.](https://youtu.be/jCuwSyaF_Po)
 
 There goes a live dashboard that provides real-time insights into your application's performance, proactively managing its health and optimize resource usage.
