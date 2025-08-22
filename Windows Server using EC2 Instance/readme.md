@@ -74,7 +74,7 @@ The instance will take a few minutes to initialize. Once the "Instance state" ch
 Final Steps
 Once the instance is running, you can connect to it using an RDP client. Click "Connect" on the EC2 instance dashboard and follow the instructions to get the password and log in. 
 
-[Here](#) is a video to work you through the process.
+[Here](https://youtu.be/VOOX6SRNcak) is a video to work you through the process.
 
 
 Enjoy your Virtual Machine.
