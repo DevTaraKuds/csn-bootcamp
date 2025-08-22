@@ -82,6 +82,6 @@ Step 6: Validate DNS and Confirm HTTPS if you used Route 53
 
 Save the record. After a few minutes, open a web browser and navigate to your custom domain using https://. The site should load securely, served directly from CloudFront.
 
-[Full Video demo can be seen here](#)
+[Full Video demo can be seen here](https://youtu.be/Ay5UMI2-EFE)
 
 Now you can combine the speed of a CDN, the reliability of S3, and the security of a custom SSL certificate. You've got this.
