@@ -67,6 +67,6 @@ Step 5: Once the service is running, find the public IP address or DNS name of t
 
 Open a web browser and navigate to http://<public-ip-address>:3000 to access the Grafana dashboard.
 
-Watch My [Video Demonstration](#)
+Watch My [Video Demonstration](https://youtu.be/bkaHt5pZwwA)
 
 Serverless cloud capabilities help you to deploy and manage applications efficiently and securely. Enjoy.
