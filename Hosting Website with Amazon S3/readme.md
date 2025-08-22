@@ -74,6 +74,6 @@ Step 6: Navigate to CloudFront
 * Create distribution
 * Now we have our domain name which can be used to securelly access our webpage via https.
 
-View [Video Demo here.](#)
+View [Video Demo here.](https://youtu.be/99snVCDSDEY)
 
 There you go! This is you to the world. We are live and secure. Happy? Yeah sure you are. 
